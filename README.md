@@ -6,7 +6,7 @@ Simples, direto e com persistência de dados em arquivo `.txt`!
 
 ---
 
-## Desenvolvido por:
+## 💻 Desenvolvido por:
 
 Jamile Rockenbach Ferreira, aluna do primeiro semestre de ciência da computação.
 
